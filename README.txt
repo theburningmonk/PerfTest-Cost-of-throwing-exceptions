@@ -1,0 +1,1 @@
+This is a simple console app to demostrate the cost of throwing exceptions.
